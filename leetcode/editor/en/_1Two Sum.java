@@ -82,7 +82,6 @@ class _1Solution {
                 return a;
             }
             hash.put(target-nums[i], i);
-
         }
         return a;
     }
